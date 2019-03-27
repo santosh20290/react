@@ -1,0 +1,5 @@
+we want following things to install react app
+1.node js
+2.npm (node package manager)
+3.create-react-app (sudo npm create-react-app -g) -g for global install
+
